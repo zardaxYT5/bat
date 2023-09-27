@@ -14,7 +14,7 @@ echo.
 echo.
 echo.
 echo.
-shutdown /s /t 50 /c "hi"
+shutdown /s /t 50 /c "replace me"
 
 timeout 10
 
